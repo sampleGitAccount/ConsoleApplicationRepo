@@ -1,0 +1,2 @@
+C:\Users\drewta\Source\Workspaces\TFVC_TFVC_EMPTY\drewtaCloudService8654321236879845\ConsoleApplicationGitHub\ConsoleApplicationGitHub\bin\Debug\ConsoleApplicationGitHub.exe.config
+C:\Users\drewta\Source\Workspaces\ConsoleApplicationGitHub\ConsoleApplicationGitHub\bin\Debug\ConsoleApplicationGitHub.exe.config
